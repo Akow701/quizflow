@@ -18,7 +18,7 @@ Agar javob aniqlanmasa correct indeksini 0 qo‘y.
 Hech qanday izoh yozma, faqat JSON qaytar.
 """
 
-model = genai.GenerativeModel("gemini-1.5-flash")
+model = genai.GenerativeModel("gemini-1.5-pro")
 
 def extract_text(file_path):
     ext = os.path.splitext(file_path)[1].lower()
