@@ -1,0 +1,6 @@
+aiogram==3.7.0
+google-generativeai
+pandas
+mammoth
+PyPDF2
+openpyxl
